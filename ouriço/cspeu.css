@@ -1,0 +1,24 @@
+h3{
+    color: #494949; 
+    border-bottom: 1px solid #7bac3b; 
+    font-family: Arial;
+    font-size: medium;
+    }
+    
+    em{
+    font-family: Arial; 
+    padding: 0.3em; 
+    background-color: #d9f5f9; 
+    color: #0f8593; 
+    border-radius: 4px; 
+    font-style: normal;
+    font-size: medium;
+
+    }
+body{
+    background-color:azure
+}
+header{
+    background-color: #7bac3b;
+
+}
